@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Academia NLC</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <h1 class="titulo-principal">Academia NLC</h1>
+        </header>   
+        <img id="banner"src="banner.jpg">
+         <div class="principal">
+            <h2 class="titulo-centralizado">Sobre a Academia NLC</h2>
+
+            <p>Localizada no coração da cidade a <strong>Academia CLN</strong> tem como objetivo proporcionar a melhor qualidade de equipamentos para que tenha melhor eficiencia em seus exercícios</p>
+
+            <p id="missão"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+
+            <p>Oferecemos profissionais experientes e atentos às mudanças no mundo da musculação. 
+            O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+         </div> 
+
+         <div class="Benefícios">
+            <h3 class="titulo-centralizado">Benefícios</h3>
+
+            <ul>
+                <li class="itens">⭐Atendimento aos Clientes</li>
+                <li class="itens">⭐Espaço diferenciado</li>
+                <li class="itens">⭐localização</li>
+                <li class="itens">⭐Profissionais qualificados</li>
+            </ul>
+
+            <img src="benefícios.jpg" class="imagem benefícios">
+         </div>
+            <h4>TRABALHO DE PENSAMENTO COMPUTACIONAL</h4> 
+            <p><em><strong>Professor:Lucas</strong></em></p>
+            <p><em><strong>Alunos:Nathan,Luiz,Carol</strong></em></p>       
+    </body>
+</html>
